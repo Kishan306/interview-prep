@@ -1319,4 +1319,4 @@ All client-supplied data (headers, body, query, cookies) is **spoofable**. Never
 7. **Code the classics by hand:** an Express error-handling middleware + `catchAsync`, a Zod-validated route, a `Promise.all` refactor, a graceful-shutdown block, a multi-stage Dockerfile, a transaction. Muscle memory beats recall under pressure.
 8. **For framework questions, know the "why."** Nest's DI (testability), Fastify's schema (validation + serialization speed), Express's middleware order. Don't just list features — explain the design intent.
 
-> **You've got this.** Drill the event-loop puzzles and the trade-off questions, build the "code the classics" snippets until they're automatic, and you'll walk in able to discuss Node like someone who's shipped and operated it — which is exactly what they're listening for.
+> **Good luck - you've got this.** 
